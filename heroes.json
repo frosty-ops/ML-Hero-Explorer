@@ -1,0 +1,1182 @@
+[
+{
+"name": "Beatrix",
+"role": "Marksman",
+"lane": "Gold Lane",
+"difficulty": "Hard",
+"image": "images/beatrix.jpg",
+"skills": [
+{
+"name": "Mechanical Genius (Passive)",
+"description": "Beatrix can equip and switch between four different weapons, giving her access to different attack styles and unique ultimates."
+},
+{
+"name": "Masterful Gunner",
+"description": "Switches to another equipped weapon, changing Beatrix's basic attacks and combat style."
+},
+{
+"name": "Tactical Reposition",
+"description": "Dashes in the chosen direction while reloading and repositioning for combat."
+},
+{
+"name": "Ultimate",
+"description": "Uses the ultimate attack of the currently equipped weapon, dealing powerful damage based on the selected firearm."
+}
+]
+},
+
+{
+"name": "Aamon",
+"role": "Assassin",
+"lane": "Jungle",
+"difficulty": "Hard",
+"image": "images/aamon.jpg",
+"skills": [
+{
+"name": "Invisible Armor (Passive)",
+"description": "Aamon enters camouflage after not dealing or taking damage for a short duration and enhances his attacks with shard energy."
+},
+{
+"name": "Soul Shards",
+"description": "Throws shard energy that damages enemies and creates additional shards around the target."
+},
+{
+"name": "Slayer Shards",
+"description": "Releases shard energy in a chosen direction, dealing damage and collecting nearby shards."
+},
+{
+"name": "Endless Shards (Ultimate)",
+"description": "Launches all collected shards at a locked target, dealing massive burst damage."
+}
+]
+},
+{
+"name": "Akai",
+"role": "Tank",
+"lane": "Roam",
+"difficulty": "Easy",
+"image": "images/akai.jpg",
+"skills": [
+{
+"name": "Tai Chi (Passive)",
+"description": "Using a skill grants Akai a shield that absorbs damage for a short duration."
+},
+{
+"name": "Headbutt",
+"description": "Akai charges forward and knocks back the first enemy hit, dealing physical damage."
+},
+{
+"name": "Body Slam",
+"description": "Akai jumps to a target area, dealing damage and slowing nearby enemies."
+},
+{
+"name": "Heavy Spin (Ultimate)",
+"description": "Akai spins rapidly, becoming immune to crowd control while continuously knocking back nearby enemies."
+}
+]
+},
+{
+"name": "Aldous",
+"role": "Fighter",
+"lane": "EXP Lane",
+"difficulty": "Medium",
+"image": "images/aldous.jpg",
+"skills": [
+{
+"name": "Contract: Soul Steal (Passive)",
+"description": "Aldous gains permanent damage by collecting Soul Steal stacks from enemies and minions."
+},
+{
+"name": "Contract: Chase Fate",
+"description": "Empowers Aldous's next basic attack, dealing massive physical damage."
+},
+{
+"name": "Contract: Explosion",
+"description": "Creates a protective barrier that explodes after a short delay, dealing damage to nearby enemies."
+},
+{
+"name": "Contract: Chase Fate (Ultimate)",
+"description": "Reveals all enemy heroes and allows Aldous to charge toward a selected target anywhere on the map."
+}
+]
+},
+{
+"name": "Alice",
+"role": "Mage/Tank",
+"lane": "EXP Lane",
+"difficulty": "Hard",
+"image": "images/alice.jpg",
+"skills": [
+{
+"name": "Blood Ancestry (Passive)",
+"description": "Alice absorbs Blood Orbs dropped by enemies to permanently increase her attributes."
+},
+{
+"name": "Flowing Blood",
+"description": "Launches a blood orb that damages enemies and allows Alice to teleport to its location."
+},
+{
+"name": "Blood Awe",
+"description": "Deals magic damage and immobilizes nearby enemies."
+},
+{
+"name": "Blood Ode (Ultimate)",
+"description": "Continuously drains the life of nearby enemies, restoring Alice's HP while dealing magic damage."
+}
+]
+},
+{
+"name": "Alpha",
+"role": "Fighter",
+"lane": "EXP Lane",
+"difficulty": "Easy",
+"image": "images/alpha.jpg",
+"skills": [
+{
+"name": "Beta, Advance! (Passive)",
+"description": "Beta assists Alpha's attacks, dealing additional true damage after multiple hits."
+},
+{
+"name": "Rotary Impact",
+"description": "Alpha slashes forward, dealing physical damage and slowing enemies."
+},
+{
+"name": "Force Swing",
+"description": "Swings his spear in a wide area, dealing damage and restoring HP when hitting enemies."
+},
+{
+"name": "Spear of Alpha (Ultimate)",
+"description": "Alpha charges toward a target, knocking enemies airborne while Beta follows up with additional attacks."
+}
+]
+},
+{
+"name": "Alucard",
+"role": "Fighter/Assassin",
+"lane": "Jungle",
+"difficulty": "Easy",
+"image": "images/alucard.jpg",
+"skills": [
+{
+"name": "Pursuit (Passive)",
+"description": "After using a skill, Alucard's next basic attack dashes to the target and deals extra damage."
+},
+{
+"name": "Groundsplitter",
+"description": "Leaps to a target location and deals physical damage to enemies."
+},
+{
+"name": "Whirling Smash",
+"description": "Performs a spinning slash that damages nearby enemies."
+},
+{
+"name": "Fission Wave (Ultimate)",
+"description": "Greatly enhances lifesteal and unleashes powerful energy waves that deal physical damage."
+}
+]
+},
+{
+"name": "Angela",
+"role": "Support",
+"lane": "Roam",
+"difficulty": "Easy",
+"image": "images/angela.jpg",
+"skills": [
+{
+"name": "Smart Heart (Passive)",
+"description": "Angela gains movement speed whenever she uses a skill."
+},
+{
+"name": "Love Waves",
+"description": "Releases love energy that damages enemies and heals allied heroes."
+},
+{
+"name": "Puppet-on-a-String",
+"description": "Attaches strings to an enemy, dealing magic damage and immobilizing them if they fail to escape."
+},
+{
+"name": "Heartguard (Ultimate)",
+"description": "Attaches herself to an allied hero anywhere on the map, granting a shield and allowing Angela to cast skills through that ally."
+}
+]
+},
+{
+"name": "Argus",
+"role": "Fighter",
+"lane": "EXP Lane",
+"difficulty": "Medium",
+"image": "images/argus.jpg",
+"skills": [
+{
+"name": "Warmonger (Passive)",
+"description": "Argus periodically empowers his basic attack, dealing extra damage and restoring HP."
+},
+{
+"name": "Demonic Grip",
+"description": "Launches a demonic hand that pulls Argus toward an enemy or drags the enemy toward him."
+},
+{
+"name": "Meteoric Sword",
+"description": "Charges forward and slashes enemies in his path, dealing physical damage."
+},
+{
+"name": "Eternal Evil (Ultimate)",
+"description": "Argus becomes immune to death for a short duration and converts damage taken into HP after the effect ends."
+}
+]
+},
+{
+"name": "Arlott",
+"role": "Fighter",
+"lane": "EXP Lane",
+"difficulty": "Hard",
+"image": "images/arlott.jpg",
+"skills": [
+{
+"name": "Demon Gaze (Passive)",
+"description": "Marks enemies, allowing Arlott to dash through them with enhanced attacks."
+},
+{
+"name": "Dauntless Strike",
+"description": "Strikes a target area, dealing physical damage and marking enemies hit."
+},
+{
+"name": "Vengeance",
+"description": "Dashes to a marked target, dealing damage and resetting the skill when consuming a mark."
+},
+{
+"name": "Final Slash (Ultimate)",
+"description": "Unleashes a powerful slash that pushes enemies and deals heavy physical damage."
+}
+]
+},
+{
+"name": "Atlas",
+"role": "Tank",
+"lane": "Roam",
+"difficulty": "Hard",
+"image": "images/atlas.jpg",
+"skills": [
+{
+"name": "Frigid Breath (Passive)",
+"description": "Atlas slows nearby enemies after casting skills, reducing their attack and movement speed."
+},
+{
+"name": "Annihilate",
+"description": "Smashes the ground to deal magic damage to nearby enemies."
+},
+{
+"name": "Perfect Match",
+"description": "Separates Atlas from his mech, increasing mobility before reuniting."
+},
+{
+"name": "Fatal Links (Ultimate)",
+"description": "Chains nearby enemies together and slams them into a chosen location, dealing magic damage."
+}
+]
+},
+{
+"name": "Aurora",
+"role": "Mage",
+"lane": "Mid Lane",
+"difficulty": "Medium",
+"image": "images/aurora.jpg",
+"skills": [
+{
+"name": "Pride of Ice (Passive)",
+"description": "Aurora builds frost energy that enhances her skills with freezing effects."
+},
+{
+"name": "Frost Shock",
+"description": "Launches icy energy that deals magic damage to enemies."
+},
+{
+"name": "Bitter Frost",
+"description": "Blasts a target with freezing power, dealing magic damage and slowing them."
+},
+{
+"name": "Cold Destruction (Ultimate)",
+"description": "Summons a massive ice attack that deals area magic damage and freezes enemies caught in the blast."
+}
+]
+},
+{
+"name": "Badang",
+"role": "Fighter",
+"lane": "EXP Lane",
+"difficulty": "Medium",
+"image": "images/badang.jpg",
+"skills": [
+{
+"name": "Chivalry Fist (Passive)",
+"description": "Basic attacks and skills can create knockback effects and enhance Badang's combos."
+},
+{
+"name": "Fist Wind",
+"description": "Punches forward and creates a damaging wind wave."
+},
+{
+"name": "Fist Break",
+"description": "Dashes to a target location and creates a wall that blocks enemy movement."
+},
+{
+"name": "Fist Crack (Ultimate)",
+"description": "Rapidly unleashes powerful punches in front of him, dealing continuous physical damage."
+}
+]
+},
+{
+"name": "Balmond",
+"role": "Fighter",
+"lane": "EXP Lane",
+"difficulty": "Easy",
+"image": "images/balmond.jpg",
+"skills": [
+{
+"name": "Bloodthirst (Passive)",
+"description": "Recovers HP after eliminating enemy units or heroes."
+},
+{
+"name": "Soul Lock",
+"description": "Charges toward an enemy, dealing physical damage."
+},
+{
+"name": "Cyclone Sweep",
+"description": "Spins continuously with his axe, damaging nearby enemies."
+},
+{
+"name": "Lethal Counter (Ultimate)",
+"description": "Slams his axe into the ground, dealing true damage based on the target's lost HP."
+}
+]
+},
+{
+"name": "Bane",
+"role": "Fighter",
+"lane": "EXP Lane",
+"difficulty": "Easy",
+"image": "images/bane.jpg",
+"skills": [
+{
+"name": "Shark Bite (Passive)",
+"description": "After using a skill, Bane's next basic attack deals extra physical damage."
+},
+{
+"name": "Crab Claw Cannon",
+"description": "Fires a cannonball that explodes and damages enemies."
+},
+{
+"name": "Ale",
+"description": "Drinks ale to restore HP and increase movement speed."
+},
+{
+"name": "Deadly Catch (Ultimate)",
+"description": "Summons giant sea creatures that rush forward, damaging and knocking up enemies."
+}
+]
+},
+{
+"name": "Barats",
+"role": "Tank/Fighter",
+"lane": "EXP Lane",
+"difficulty": "Medium",
+"image": "images/barats.jpg",
+"skills": [
+{
+"name": "Big Guy (Passive)",
+"description": "Barats and Detona gain size and attributes by attacking enemies continuously."
+},
+{
+"name": "So-Called Teamwork",
+"description": "Detona spits toxic saliva that explodes and damages enemies."
+},
+{
+"name": "Missile Expert",
+"description": "Fires explosive missiles that deal area damage."
+},
+{
+"name": "Detona's Welcome (Ultimate)",
+"description": "Detona swallows an enemy hero and spits them out at a chosen location, dealing damage."
+}
+]
+},
+{
+"name": "Baxia",
+"role": "Tank",
+"lane": "Jungle",
+"difficulty": "Medium",
+"image": "images/baxia.jpg",
+"skills": [
+{
+"name": "Baxia Mark (Passive)",
+"description": "Reduces the healing and shield effects received by nearby enemies."
+},
+{
+"name": "Baxia Shield Unity",
+"description": "Transforms into a rolling shield and charges toward enemies."
+},
+{
+"name": "Shield of Spirit",
+"description": "Throws his shield, dealing magic damage and slowing enemies."
+},
+{
+"name": "Tortoise's Puissance (Ultimate)",
+"description": "Creates lava trails while moving, continuously dealing magic damage to enemies."
+}
+]
+},
+{
+"name": "Brody",
+"role": "Marksman",
+"lane": "Gold Lane",
+"difficulty": "Medium",
+"image": "images/brody.jpg",
+"skills": [
+{
+"name": "Abyss Corrosion (Passive)",
+"description": "Basic attacks apply Abyss Marks that increase damage dealt to enemies."
+},
+{
+"name": "Abyss Impact",
+"description": "Launches a powerful attack that deals physical damage and applies an Abyss Mark."
+},
+{
+"name": "Corrosive Strike",
+"description": "Dashes in a chosen direction while firing an enhanced attack."
+},
+{
+"name": "Torn-Apart Memory (Ultimate)",
+"description": "Consumes Abyss Marks on enemies to deal massive burst physical damage."
+}
+]
+},
+{
+"name": "Bruno",
+"role": "Marksman",
+"lane": "Gold Lane",
+"difficulty": "Easy",
+"image": "images/bruno.jpg",
+"skills": [
+{
+"name": "Mecha Legs (Passive)",
+"description": "Critical hits increase Bruno's critical chance and movement speed."
+},
+{
+"name": "Volley Shot",
+"description": "Kicks an energy ball that deals damage and returns after hitting an enemy."
+},
+{
+"name": "Flying Tackle",
+"description": "Slides forward, damaging and briefly stunning enemies."
+},
+{
+"name": "Wave of the World Animation (Ultimate)",
+"description": "Launches an energy ball that bounces between enemies, dealing physical damage."
+}
+]
+},
+{
+"name": "Carmilla",
+"role": "Support/Tank",
+"lane": "Roam",
+"difficulty": "Medium",
+"image": "images/carmilla.jpg",
+"skills": [
+{
+"name": "Vampire Pact (Passive)",
+"description": "Steals physical and magic defense from nearby enemy heroes."
+},
+{
+"name": "Crimson Flower",
+"description": "Summons spinning flowers that damage enemies and restore HP."
+},
+{
+"name": "Bloodbath",
+"description": "Charges and stuns the first enemy hero hit."
+},
+{
+"name": "Curse of Blood (Ultimate)",
+"description": "Links enemy heroes together so they share damage and crowd control effects."
+}
+]
+},
+{
+"name": "Cecilion",
+"role": "Mage",
+"lane": "Mid Lane",
+"difficulty": "Medium",
+"image": "images/cecilion.jpg",
+"skills": [
+{
+"name": "Overflowing (Passive)",
+"description": "Permanently increases Cecilion's maximum mana when his skills hit enemies."
+},
+{
+"name": "Bat Impact",
+"description": "Summons giant bats that deal magic damage in a target area."
+},
+{
+"name": "Sanguine Claws",
+"description": "Summons blood claws that damage and immobilize enemies."
+},
+{
+"name": "Bats Feast (Ultimate)",
+"description": "Releases a swarm of bats that attack nearby enemies while restoring HP."
+}
+]
+},
+{
+"name": "Chang'e",
+"role": "Mage",
+"lane": "Mid Lane",
+"difficulty": "Easy",
+"image": "images/change.jpg",
+"skills": [
+{
+"name": "Trouble Maker (Passive)",
+"description": "After casting a skill, Chang'e's enhanced basic attacks deal additional magic damage."
+},
+{
+"name": "Moon Palace Immersion",
+"description": "Gains a shield and enhances her abilities for a short duration."
+},
+{
+"name": "Crescent Moon",
+"description": "Launches a crescent-shaped projectile that damages and slows enemies."
+},
+{
+"name": "Meteor Shower (Ultimate)",
+"description": "Calls down a continuous shower of meteors that deal magic damage over a large area."
+}
+]
+},
+{
+"name": "Chip",
+"role": "Tank",
+"lane": "Roam",
+"difficulty": "Medium",
+"image": "images/chip.jpg",
+"skills": [
+{
+"name": "Passive",
+"description": "Chip gains enhanced mobility and special portal interactions while moving around the battlefield."
+},
+{
+"name": "Crash Course",
+"description": "Charges forward, dealing damage and knocking back enemies."
+},
+{
+"name": "Shortcut",
+"description": "Creates a portal that allows Chip to quickly reposition."
+},
+{
+"name": "Portal Party (Ultimate)",
+"description": "Creates connected portals that allow allies to teleport and engage enemies."
+}
+]
+},
+{
+"name": "Chou",
+"role": "Fighter",
+"lane": "EXP Lane",
+"difficulty": "Hard",
+"image": "images/chou.jpg",
+"skills": [
+{
+"name": "Only Fast (Passive)",
+"description": "After moving a certain distance, Chou's next basic attack deals extra damage and slows enemies."
+},
+{
+"name": "Jeet Kune Do",
+"description": "Performs a series of punches, with the third attack knocking enemies airborne."
+},
+{
+"name": "Shunpo",
+"description": "Dashes a short distance and becomes briefly immune to crowd control."
+},
+{
+"name": "The Way of Dragon (Ultimate)",
+"description": "Delivers a powerful kick that knocks an enemy away before following up with another strike."
+}
+]
+},
+{
+"name": "Cici",
+"role": "Fighter",
+"lane": "EXP Lane",
+"difficulty": "Easy",
+"image": "images/cici.jpg",
+"skills": [
+{
+"name": "Performer's Delight (Passive)",
+"description": "Continuously attacking enemies increases Cici's movement speed and damage."
+},
+{
+"name": "Yo-Yo Blitz",
+"description": "Throws her yo-yo to repeatedly strike nearby enemies."
+},
+{
+"name": "Buoyant Bounce",
+"description": "Jumps toward a target location, gaining mobility and avoiding obstacles."
+},
+{
+"name": "Curtain Call (Ultimate)",
+"description": "Links two enemy heroes together, restricting their movement and dealing damage."
+}
+]
+},
+{
+"name": "Claude",
+"role": "Marksman",
+"lane": "Gold Lane",
+"difficulty": "Hard",
+"image": "images/claude.jpg",
+"skills": [
+{
+"name": "Battle Side-by-Side (Passive)",
+"description": "Dexter assists Claude's attacks, increasing attack speed and damage."
+},
+{
+"name": "Art of Thievery",
+"description": "Steals movement speed and attack speed from enemies."
+},
+{
+"name": "Battle Mirror Image",
+"description": "Summons Dexter to a location and allows Claude to swap positions."
+},
+{
+"name": "Blazing Duet (Ultimate)",
+"description": "Claude and Dexter fire continuously at nearby enemies while moving."
+}
+]
+},
+{
+"name": "Clint",
+"role": "Marksman",
+"lane": "Gold Lane",
+"difficulty": "Easy",
+"image": "images/clint.jpg",
+"skills": [
+{
+"name": "Double Shot (Passive)",
+"description": "After using a skill, Clint's next basic attack fires twice with increased range."
+},
+{
+"name": "Quick Draw",
+"description": "Shoots quickly in front of him, dealing physical damage."
+},
+{
+"name": "Trap Bomb",
+"description": "Throws a trap that explodes and slows enemies."
+},
+{
+"name": "Howitzer (Ultimate)",
+"description": "Fires a powerful long-range explosive shot that can be cast multiple times."
+}
+]
+},
+{
+"name": "Cyclops",
+"role": "Mage",
+"lane": "Mid Lane",
+"difficulty": "Easy",
+"image": "images/cyclops.jpg",
+"skills": [
+{
+"name": "Starlit Hourglass (Passive)",
+"description": "Hitting enemies with skills reduces the cooldown of all Cyclops's skills."
+},
+{
+"name": "Shock Wave",
+"description": "Releases two shock waves that deal magic damage."
+},
+{
+"name": "Planets Attack",
+"description": "Summons rotating stars that damage nearby enemies."
+},
+{
+"name": "Star Power Lockdown (Ultimate)",
+"description": "Launches a giant magic sphere that tracks and immobilizes the target."
+}
+]
+},
+{
+"name": "Diggie",
+"role": "Support",
+"lane": "Roam",
+"difficulty": "Medium",
+"image": "images/diggie.jpg",
+"skills": [
+{
+"name": "Young Again (Passive)",
+"description": "After death, Diggie transforms into an egg and can continue moving around the battlefield."
+},
+{
+"name": "Auto Alarm Bomb",
+"description": "Throws an owl bomb that automatically chases nearby enemies."
+},
+{
+"name": "Reverse Time",
+"description": "Marks an enemy and pulls them back after a short delay."
+},
+{
+"name": "Time Journey (Ultimate)",
+"description": "Grants nearby allies a shield and removes crowd control effects."
+}
+]
+},
+{
+"name": "Dyrroth",
+"role": "Fighter",
+"lane": "EXP Lane",
+"difficulty": "Medium",
+"image": "images/dyrroth.jpg",
+"skills": [
+{
+"name": "Wrath of the Abyss (Passive)",
+"description": "Every few basic attacks, Dyrroth enhances his next attack and restores HP."
+},
+{
+"name": "Burst Strike",
+"description": "Launches a series of slashes that deal physical damage."
+},
+{
+"name": "Spectre Step",
+"description": "Dashes toward an enemy, dealing damage and reducing their physical defense."
+},
+{
+"name": "Abysm Strike (Ultimate)",
+"description": "Charges briefly before unleashing a devastating strike that deals massive physical damage."
+}
+]
+},
+{
+"name": "Edith",
+"role": "Tank/Marksman",
+"lane": "EXP Lane",
+"difficulty": "Hard",
+"image": "images/edith.jpg",
+"skills": [
+{
+"name": "Overload (Passive)",
+"description": "Basic attacks trigger chain lightning that damages multiple enemies."
+},
+{
+"name": "Earth Shatter",
+"description": "Slams the ground to damage and control nearby enemies."
+},
+{
+"name": "Onward",
+"description": "Charges forward and throws enemies behind her."
+},
+{
+"name": "Primal Wrath (Ultimate)",
+"description": "Transforms into a ranged marksman form, greatly increasing attack power."
+}
+]
+},
+{
+"name": "Esmeralda",
+"role": "Mage/Tank",
+"lane": "EXP Lane",
+"difficulty": "Hard",
+"image": "images/esmeralda.jpg",
+"skills": [
+{
+"name": "Starmoon Casket (Passive)",
+"description": "Converts enemy shields into her own while dealing hybrid damage."
+},
+{
+"name": "Frostmoon Shield",
+"description": "Gains a shield and movement speed while damaging nearby enemies."
+},
+{
+"name": "Stardust Dance",
+"description": "Spins around, dealing magic damage to nearby enemies."
+},
+{
+"name": "Falling Starmoon (Ultimate)",
+"description": "Charges and leaps to a target location, dealing heavy area damage."
+}
+]
+},
+{
+"name": "Xavier",
+"role": "Mage",
+"lane": "Mid Lane",
+"difficulty": "Medium",
+"image": "images/xavier.jpg",
+"skills": [
+{
+"name": "Transcendence (Passive)",
+"description": "Casting skills enhances Xavier, increasing the power and range of his abilities."
+},
+{
+"name": "Infinite Extension",
+"description": "Fires a magic beam that damages enemies in a line."
+},
+{
+"name": "Mystic Field",
+"description": "Creates a magical field that slows enemies and enhances Xavier's other skills."
+},
+{
+"name": "Dawning Light (Ultimate)",
+"description": "Unleashes a global beam of holy light that deals massive magic damage."
+}
+]
+},
+{
+"name": "Julian",
+"role": "Fighter/Mage",
+"lane": "Jungle",
+"difficulty": "Hard",
+"image": "images/julian.jpg",
+"skills": [
+{
+"name": "Smith's Legacy (Passive)",
+"description": "After casting two skills, Julian's next skill becomes enhanced with stronger effects."
+},
+{
+"name": "Scythe",
+"description": "Throws a magical scythe that damages enemies."
+},
+{
+"name": "Sword",
+"description": "Summons flying swords that attack nearby enemies."
+},
+{
+"name": "Chain",
+"description": "Launches chains that immobilize enemies and deal magic damage."
+}
+]
+},
+{
+"name": "Hayabusa",
+"role": "Assassin",
+"lane": "Jungle",
+"difficulty": "Hard",
+"image": "images/hayabusa.jpg",
+"skills": [
+{
+"name": "Ninjutsu: Trace of Shadow (Passive)",
+"description": "Hayabusa's attacks apply Shadow Marks, increasing his damage to enemies."
+},
+{
+"name": "Phantom Shuriken",
+"description": "Throws three shurikens that deal damage and restore HP."
+},
+{
+"name": "Quad Shadow",
+"description": "Releases four shadows and can teleport to any of them."
+},
+{
+"name": "Ougi: Shadow Kill (Ultimate)",
+"description": "Disappears and rapidly slashes nearby enemies multiple times."
+}
+]
+},
+{
+"name": "Ling",
+"role": "Assassin",
+"lane": "Jungle",
+"difficulty": "Hard",
+"image": "images/ling.jpg",
+"skills": [
+{
+"name": "Cloud Walker (Passive)",
+"description": "Ling moves on walls and uses Lightness Points instead of mana."
+},
+{
+"name": "Finch Poise",
+"description": "Jumps onto walls and moves swiftly between them."
+},
+{
+"name": "Defiant Sword",
+"description": "Dashes toward enemies, dealing critical physical damage."
+},
+{
+"name": "Tempest of Blades (Ultimate)",
+"description": "Leaps into the air and strikes the battlefield, knocking enemies airborne."
+}
+]
+},
+{
+"name": "Fanny",
+"role": "Assassin",
+"lane": "Jungle",
+"difficulty": "Expert",
+"image": "images/fanny.jpg",
+"skills": [
+{
+"name": "Air Superiority (Passive)",
+"description": "Deals increased damage while flying and applies Prey Marks to enemies."
+},
+{
+"name": "Tornado Strike",
+"description": "Spins her blades to deal physical damage to nearby enemies."
+},
+{
+"name": "Steel Cable",
+"description": "Launches cables that allow Fanny to fly rapidly across the battlefield."
+},
+{
+"name": "Cut Throat (Ultimate)",
+"description": "Rushes toward a target and delivers a devastating strike with bonus damage to marked enemies."
+}
+]
+},
+{
+  "name": "Gusion",
+  "role": "Assassin/Mage",
+  "lane": "Jungle",
+  "difficulty": "Hard",
+  "image": "images/gusion.jpg",
+  "skills": [
+    {
+      "name": "Dagger Specialist (Passive)",
+      "description": "After casting a skill, Gusion's next basic attack deals extra magic damage and restores HP."
+    },
+    {
+      "name": "Sword Spike",
+      "description": "Throws a dagger that marks the target and allows Gusion to dash to it."
+    },
+    {
+      "name": "Shadowblade Slaughter",
+      "description": "Throws multiple daggers that return to Gusion, dealing magic damage."
+    },
+    {
+      "name": "Incandescence (Ultimate)",
+      "description": "Resets the cooldown of his other skills and greatly increases his mobility."
+    }
+  ]
+},
+{
+  "name": "Lancelot",
+  "role": "Assassin",
+  "lane": "Jungle",
+  "difficulty": "Hard",
+  "image": "images/lancelot.jpg",
+  "skills": [
+    {
+      "name": "Soul Cutter (Passive)",
+      "description": "Each dash increases Lancelot's damage for a short duration."
+    },
+    {
+      "name": "Puncture",
+      "description": "Dashes through an enemy, dealing physical damage."
+    },
+    {
+      "name": "Thorned Rose",
+      "description": "Performs a triangular sword attack that deals physical damage."
+    },
+    {
+      "name": "Phantom Execution (Ultimate)",
+      "description": "Charges briefly before unleashing a powerful dash that deals massive physical damage."
+    }
+  ]
+},
+{
+  "name": "Yin",
+  "role": "Fighter",
+  "lane": "EXP Lane",
+  "difficulty": "Medium",
+  "image": "images/yin.jpg",
+  "skills": [
+    {
+      "name": "Leave It to Me (Passive)",
+      "description": "Deals increased damage when fighting a single enemy hero."
+    },
+    {
+      "name": "Charged Punch",
+      "description": "Throws a powerful punch that damages enemies in front."
+    },
+    {
+      "name": "Instant Blast",
+      "description": "Dashes forward and enhances his next attack."
+    },
+    {
+      "name": "My Turn (Ultimate)",
+      "description": "Pulls a target into a separate arena for a one-on-one battle with Lieh."
+    }
+  ]
+},
+{
+  "name": "Joy",
+  "role": "Assassin",
+  "lane": "Jungle",
+  "difficulty": "Hard",
+  "image": "images/joy.jpg",
+  "skills": [
+    {
+      "name": "Hum, Joy's Rhythm (Passive)",
+      "description": "Perfectly timed skill casts increase Joy's movement speed and damage."
+    },
+    {
+      "name": "Look, Leonin Crystal!",
+      "description": "Summons a crystal that deals magic damage."
+    },
+    {
+      "name": "Meow, Rhythm of Joy!",
+      "description": "Dashes repeatedly with rhythm-based timing, dealing magic damage."
+    },
+    {
+      "name": "Ha, Electrifying Beats! (Ultimate)",
+      "description": "Becomes immune to crowd control while unleashing multiple electric attacks."
+    }
+  ]
+},
+{
+  "name": "Nolan",
+  "role": "Assassin",
+  "lane": "Jungle",
+  "difficulty": "Hard",
+  "image": "images/nolan.jpg",
+  "skills": [
+    {
+      "name": "Dimensional Rift (Passive)",
+      "description": "Skills create rifts that explode when touched, dealing extra physical damage."
+    },
+    {
+      "name": "Expansion",
+      "description": "Slashes forward and creates a dimensional rift."
+    },
+    {
+      "name": "Gauge",
+      "description": "Dashes through enemies, leaving another dimensional rift."
+    },
+    {
+      "name": "Fracture (Ultimate)",
+      "description": "Becomes untargetable while performing multiple slashes that create exploding rifts."
+    }
+  ]
+},
+{
+  "name": "Hanabi",
+  "role": "Marksman",
+  "lane": "Gold Lane",
+  "difficulty": "Easy",
+  "image": "images/hanabi.jpg",
+  "skills": [
+    {
+      "name": "Ninjutsu: Equinox (Passive)",
+      "description": "Hanabi gains a shield when at full HP and becomes immune to crowd control while the shield is active."
+    },
+    {
+      "name": "Ninjutsu: Petal Barrage",
+      "description": "Basic attacks bounce between enemies, dealing physical damage."
+    },
+    {
+      "name": "Ninjutsu: Soul Scroll",
+      "description": "Throws a scroll that damages enemies and slows them while restoring mana."
+    },
+    {
+      "name": "Forbidden Jutsu: Higanbana (Ultimate)",
+      "description": "Throws a Higanbana that immobilizes the target and spreads to nearby enemies."
+    }
+  ]
+},
+{
+  "name": "Miya",
+  "role": "Marksman",
+  "lane": "Gold Lane",
+  "difficulty": "Easy",
+  "image": "images/miya.jpg",
+  "skills": [
+    {
+      "name": "Moon Blessing (Passive)",
+      "description": "Basic attacks increase Miya's attack speed and summon additional arrows at full stacks."
+    },
+    {
+      "name": "Moon Arrow",
+      "description": "Splits basic attacks into multiple arrows that hit nearby enemies."
+    },
+    {
+      "name": "Arrow of Eclipse",
+      "description": "Fires a powerful arrow that immobilizes and damages enemies."
+    },
+    {
+      "name": "Hidden Moonlight (Ultimate)",
+      "description": "Removes all debuffs, becomes invisible for a short time, and gains movement speed."
+    }
+  ]
+},
+{
+  "name": "Hirara",
+  "role": "Marksman",
+  "lane": "Gold Lane",
+  "difficulty": "Medium",
+  "image": "images/hirara.jpg",
+  "skills": [
+    {
+      "name": "Passive",
+      "description": "Enhances basic attacks and improves mobility during combat."
+    },
+    {
+      "name": "Skill 1",
+      "description": "Launches a ranged attack that deals physical damage to enemies."
+    },
+    {
+      "name": "Skill 2",
+      "description": "Quickly repositions while enhancing the next attack."
+    },
+    {
+      "name": "Ultimate",
+      "description": "Unleashes a powerful barrage that deals heavy physical damage to enemies."
+    }
+  ]
+},
+{
+  "name": "Layla",
+  "role": "Marksman",
+  "lane": "Gold Lane",
+  "difficulty": "Easy",
+  "image": "images/layla.jpg",
+  "skills": [
+    {
+      "name": "Malefic Gun (Passive)",
+      "description": "Layla deals more damage to enemies that are farther away."
+    },
+    {
+      "name": "Malefic Bomb",
+      "description": "Fires an energy bomb that deals physical damage."
+    },
+    {
+      "name": "Void Projectile",
+      "description": "Launches an energy sphere that slows enemies and increases attack range."
+    },
+    {
+      "name": "Destruction Rush (Ultimate)",
+      "description": "Fires a massive energy cannon in a straight line, dealing heavy physical damage."
+    }
+  ]
+},
+{
+  "name": "Odette",
+  "role": "Mage",
+  "lane": "Mid Lane",
+  "difficulty": "Medium",
+  "image": "images/odette.jpg",
+  "skills": [
+    {
+      "name": "Lakeshore Ambience (Passive)",
+      "description": "After casting a skill, Odette's next basic attack releases a bouncing sound wave."
+    },
+    {
+      "name": "Avian Authority",
+      "description": "Summons a swan that attacks enemies and deals magic damage."
+    },
+    {
+      "name": "Blue Nova",
+      "description": "Creates a magic explosion that immobilizes nearby enemies."
+    },
+    {
+      "name": "Swan Song (Ultimate)",
+      "description": "Continuously releases magical energy around herself, dealing massive magic damage while gaining a shield."
+    }
+  ]
+}
+]
+
+
+
+
