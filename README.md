@@ -1,70 +1,31 @@
-# 🛡️ Mobile Legends Hero Explorer
+Mobile Legends Hero Explorer
 
-A simple web application built using **HTML, CSS, and JavaScript** that allows users to search for Mobile Legends heroes and view their information.
+This is a simple web project made using HTML, CSS, JavaScript, and JSON.
 
-This project reads hero data from a JSON file and displays the hero's image, role, lane, difficulty level, and skills.
+The project allows users to search for a Mobile Legends hero by name. After searching, it displays the hero's image and basic information. Users can also click on **View Details** to see the hero's lane, difficulty, and skills.
 
-## 📌 Features
 
-- Search heroes by name
+## Features
+
+- Search hero by name
 - Display hero image
 - Show hero role
-- View lane information
-- Display hero difficulty
-- View all hero skills
-- Hero data stored in JSON
-- Handles invalid hero names
-- Simple and responsive user interface
+- View hero lane
+- Show hero difficulty
+- Display all hero skills
+- Hero data stored in a JSON file
+- Shows **"Hero not found"** if the hero is not available
 
-## 🛠️ Technologies Used
+## Technologies Used
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 - JSON
 
-## 📂 Project Structure
-Mobile-Legends-Hero-Explorer/
-│
-├── index.html
-├── explorer.html
-├── landing.css
-├── style.css
-├── script.js
-├── heroes.json
-├── images/
-└── README.md
 
+## Concepts Used
 
-## 🚀 How It Works
-
-1. Open the landing page.
-2. Click **Enter Hero Explorer**.
-3. Type the name of a Mobile Legends hero.
-4. Click **Search Hero**.
-5. The application displays:
-   - Hero Image
-   - Hero Name
-   - Hero Role
-6. Click **View Details** to see:
-   - Lane
-   - Difficulty
-   - Hero Skills
-
-## ⚠️ Error Handling
-
-The project includes basic error handling.
-
-- If a hero is not available in the JSON file, the application displays **"Hero not found"**.
-- The JSON data is loaded using **fetch()** inside a **try...catch** block.
-- The **View Details** button only works after a hero has been searched.
-
-## 📚 Concepts Used
-
-- HTML5
-- CSS3
-- JavaScript
-- JSON
 - DOM Manipulation
 - Event Listeners
 - Functions
@@ -77,41 +38,69 @@ The project includes basic error handling.
 - Error Handling (`try...catch`)
 - CSS Flexbox
 - CSS Animations
-- CSS Hover Effects
 
-## 🎯 Learning Outcome
 
-Through this project, I learned how to:
+## Project Structure
+
+```
+ML-Hero-Explorer/
+│
+├── index.html
+├── explorer.html
+├── landing.css
+├── style.css
+├── script.js
+├── heroes.json
+├── images/
+└── README.md
+ ```
+## How to Use
+
+1. Open `index.html`.
+2. Click **Enter Hero Explorer**.
+3. Type the hero name in the search box.
+4. Click **Search**.
+5. Click **View Details** to see the hero's lane, difficulty, and skills.
+
+
+
+## Error Handling
+
+- If the searched hero is not found, the application displays **"Hero not found"**.
+- The project uses `try...catch` while loading the JSON file.
+- The **View Details** button works only after a hero is searched.
+
+
+
+## What I Learned
+
+While making this project, I learned how to:
 
 - Read data from a JSON file using Fetch API
 - Search data using JavaScript
-- Update webpage content dynamically
+- Update webpage content using DOM Manipulation
 - Handle user input
-- Implement basic error handling
-- Design a responsive and attractive user interface
-- Organize project files properly
+- Use arrays and JavaScript methods
+- Handle basic errors
+- Design a simple and attractive user interface
 
-## 📸 Screenshots
+## Screenshots
 
 ### Landing Page
 
-![Landing Page](screenshots/landing-page.png)
+![Landing Page](images/landing-page.png)
 
 ### Hero Search
 
-![Hero Search](screenshots/hero-search.png)
+![Hero Search](images/hero-search.png)
 
 ### Hero Details
 
-### Hero Details
+![Hero Details](images/hero-details.png)
 
-![Hero Details](screenshots/hero-details.png)
----
 
-## 👩‍💻 Author
+## Author
 
 **Kirti Gadhave**
 
 B.Sc. Computer Science Student
-
-This project was created for learning JavaScript, JSON, Fetch API, DOM Manipulation, and Web Development.
