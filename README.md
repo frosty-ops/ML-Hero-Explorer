@@ -4,8 +4,6 @@ A simple web application built using **HTML, CSS, and JavaScript** that allows u
 
 This project reads hero data from a JSON file and displays the hero's image, role, lane, difficulty level, and skills.
 
----
-
 ## 📌 Features
 
 - Search heroes by name
@@ -18,8 +16,6 @@ This project reads hero data from a JSON file and displays the hero's image, rol
 - Handles invalid hero names
 - Simple and responsive user interface
 
----
-
 ## 🛠️ Technologies Used
 
 - HTML5
@@ -27,11 +23,7 @@ This project reads hero data from a JSON file and displays the hero's image, rol
 - JavaScript
 - JSON
 
----
-
 ## 📂 Project Structure
-
-```
 Mobile-Legends-Hero-Explorer/
 │
 ├── index.html
@@ -42,9 +34,7 @@ Mobile-Legends-Hero-Explorer/
 ├── heroes.json
 ├── images/
 └── README.md
-```
 
----
 
 ## 🚀 How It Works
 
@@ -61,8 +51,6 @@ Mobile-Legends-Hero-Explorer/
    - Difficulty
    - Hero Skills
 
----
-
 ## ⚠️ Error Handling
 
 The project includes basic error handling.
@@ -71,7 +59,6 @@ The project includes basic error handling.
 - The JSON data is loaded using **fetch()** inside a **try...catch** block.
 - The **View Details** button only works after a hero has been searched.
 
----
 ## 📚 Concepts Used
 
 - HTML5
@@ -91,7 +78,6 @@ The project includes basic error handling.
 - CSS Flexbox
 - CSS Animations
 - CSS Hover Effects
----
 
 ## 🎯 Learning Outcome
 
@@ -104,8 +90,6 @@ Through this project, I learned how to:
 - Implement basic error handling
 - Design a responsive and attractive user interface
 - Organize project files properly
-
----
 
 ## 📸 Screenshots
 
